@@ -10,7 +10,7 @@ according to UNESCO (c.f. [Recommendation on Open Science 2021](https://unesdoc.
 * open engagement of societal actors; and,
 * open dialogue with other knowledge systems.
 
-![UNESCO-Open_science-pillars-en.png](/images/UNESCO-Open_science-pillars-en.png)
+![UNESCO-Open_science-pillars-en.png](images/UNESCO-OS.png)
 
 ## Why Open Science?
 
