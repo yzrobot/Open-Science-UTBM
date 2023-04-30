@@ -31,7 +31,7 @@ For example, for *open scientific knowledge*, one could:
 * open software and source code (e.g. [here](https://github.com/yzrobot)); and,
 * open hardware (e.g. [here](https://github.com/Nedzhaken/human_aware_navigation)).
 
-Another cool initiative: [![nasa-tops](/images/nasa-tops)](https://github.com/nasa/Transform-to-Open-Science)
+Another cool initiative: [![nasa-tops](images/nasa-tops.png)](https://github.com/nasa/Transform-to-Open-Science)
 
 ## UTBM in action
 
