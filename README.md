@@ -25,7 +25,7 @@ according to UNESCO (c.f. [Recommendation on Open Science 2021](https://unesdoc.
 ## How to implement Open Science (by example)?
 
 For example, for *open scientific knowledge*, one could:
-* make scientific papers open access (e.g. [here](https://scholar.google.com/citations?user=D1x7Hd8AAAAJ));
+* open access scientific publications (e.g. [here](https://scholar.google.com/citations?user=D1x7Hd8AAAAJ));
 * open research data (e.g. [here](https://yzrobot.github.io/#Research));
 * open educational resources (e.g. [here](https://yzrobot.github.io/introduction_to_mobile_robotics/));
 * open software and source code (e.g. [here](https://github.com/yzrobot)); and,
