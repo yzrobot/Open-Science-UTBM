@@ -10,7 +10,7 @@ according to UNESCO (c.f. [Recommendation on Open Science 2021](https://unesdoc.
 * open engagement of societal actors; and,
 * open dialogue with other knowledge systems.
 
-![UNESCO-Open_science-pillars-en.png](images/UNESCO-Open_science-pillars-en.png)
+![UNESCO-Open_science-pillars-en.png](/images/UNESCO-Open_science-pillars-en.png)
 
 ## Why Open Science?
 
@@ -31,7 +31,7 @@ For example, for *open scientific knowledge*, one could:
 * open software and source code (e.g. [here](https://github.com/yzrobot)); and,
 * open hardware (e.g. [here](https://github.com/Nedzhaken/human_aware_navigation)).
 
-Another cool initiative: [![nasa-tops](images/nasa-tops)](https://github.com/nasa/Transform-to-Open-Science)
+Another cool initiative: [![nasa-tops](/images/nasa-tops)](https://github.com/nasa/Transform-to-Open-Science)
 
 ## UTBM in action
 
