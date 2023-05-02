@@ -4,7 +4,7 @@
 
 ## What is Open Science?
 
-according to UNESCO (c.f. [Recommendation on Open Science 2021](https://unesdoc.unesco.org/ark:/48223/pf0000383323)), four key pillars of openness:
+According to UNESCO (c.f. [Recommendation on Open Science 2021](https://unesdoc.unesco.org/ark:/48223/pf0000383323)), four key pillars of openness:
 * open scientific knowledge;
 * open science infrastructures;
 * open engagement of societal actors; and,
